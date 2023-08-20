@@ -1,0 +1,1 @@
+A Bluetoot Beacon prototype / exploration done in 2015.
